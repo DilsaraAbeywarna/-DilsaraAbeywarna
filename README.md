@@ -12,8 +12,7 @@ I am an Information Technology undergraduate at the University of Moratuwa in Sr
   <img src="https://komarev.com/ghpvc/?username=dilsaraabeywarna&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 📫 **Reach me at:** **aprdilsara@gmail.com**
-
+- 📫 **Reach me at:** [LinkedIn - Dilsara Abeywarna](https://linkedin.com/in/dilsara-abeywarna)
 ---
 
 <h3 align="left">Connect with me:</h3>
