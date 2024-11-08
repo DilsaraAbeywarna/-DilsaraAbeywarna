@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dilsara Abeywarna</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dilsaraabeywarna&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 <h2>👤 Who I Am</h2>
 <p>
 I am an Information Technology undergraduate at the University of Moratuwa in Sri Lanka. With a strong passion for frontend development, I enjoy creating intuitive and engaging user experiences. Alongside my interest in frontend technologies, I am expanding my knowledge in software testing, eager to ensure software quality and reliability. My journey is driven by a commitment to continuous learning and improvement in both areas.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dilsaraabeywarna&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 - 📫 **Reach me at:** **aprdilsara@gmail.com**
